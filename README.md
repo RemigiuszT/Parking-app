@@ -56,8 +56,5 @@ This application demonstrates a complete solution for managing parking areas and
 
 Upon launching, navigate to different views using the navbar. Each view's purpose and functionality are intuitive and aligned with the assignment's requirements.
 
-//
-Let me know if you need further clarification on any aspect of this implementation. Thank you for the opportunity to showcase my work on this project!
-
 Remigiusz Terek
 remigiusz.remigiusz.terek@gmail.com
